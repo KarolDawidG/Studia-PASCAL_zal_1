@@ -1,0 +1,14 @@
+### FreePascal ###
+**/backup
+**/lib
+*.exe
+*.compiled
+*.[oa]
+*.ppu
+*.rst
+*.cgi
+*.log
+*.bak*
+fp.ini
+fp.cfg
+fp.dsk
