@@ -92,7 +92,7 @@ var N : longint;
 
 procedure CzytajDane (var a,P : double; var Eps : real; var MaxI : integer);    // procedura czytajaca dane zadania 3 i 4
 begin
-writeln ('Zadanie 3 i 4. Obliczanie pierwiastka liczby rzeczywistej przy pomocy algorytmu Newtona-Raphsona');
+writeln ('Zadanie 3 i 4. (Zmiany GIT) Obliczanie pierwiastka liczby rzeczywistej przy pomocy algorytmu Newtona-Raphsona');
 writeln ('metoda iteracyjna i rekurencyjna.');
 writeln ('================================================================================================');
 write   ('Podaj wartosc liczby rzeczywistej "a": ' ); readln (a);
